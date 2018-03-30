@@ -1,10 +1,10 @@
 {
-  "name": "ngx-carousel-3d",
-  "version": "1.0.1",
+  "name": "ngx-carousel-3d-round",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bruckwubete/ngx-carousel-3d.git"
+    "url": "git+https://github.com/mowkette/ngx-carousel-3d-round.git"
   },
   "scripts": {
     "ng": "ng",
@@ -51,5 +51,18 @@
     "ts-node": "~4.1.0",
     "tslint": "~5.9.1",
     "typescript": "~2.5.3"
-  }
+  },
+  "description": "## Consuming",
+  "bugs": {
+    "url": "https://github.com/mowkette/ngx-carousel-3d-round/issues"
+  },
+  "homepage": "https://github.com/mowkette/ngx-carousel-3d-round#readme",
+  "main": "karma.conf.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [
+    "carousel"
+  ],
+  "author": "Benjamin KLEIN <benk.tnt@gmail.com>"
 }
